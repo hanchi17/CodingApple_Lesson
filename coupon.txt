@@ -1,6 +1,2 @@
 wowowowowowow
-<<<<<<< HEAD
 add func1 ver4
-=======
-add func1 ver3
->>>>>>> prac
